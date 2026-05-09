@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EngineLab Banner](https://via.placeholder.com/1200x300/2C3E50/ECF0F1?text=EngineLab+-+Laborat%C3%B3rio+de+Engenharia+de+Software+e+Sistemas)
+![EngineLab Banner](assets/banner.png)
 
 **Pesquisa, Inovação e Desenvolvimento em Engenharia de Software**
 
