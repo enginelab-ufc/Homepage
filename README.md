@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EngineLab Banner](assets/equipe_2026.jpeg)
+![EngineLab Banner](assets/banner.png)
 
 **Pesquisa, Inovação e Desenvolvimento**
 
@@ -165,6 +165,8 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 ---
 
 <div align="center">
+
+![Equipe](assets/equipe_2026.jpeg)
 
 **Feito com ❤️ pelo EngineLab**
 
