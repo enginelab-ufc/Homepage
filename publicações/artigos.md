@@ -29,192 +29,37 @@ Zairo Bastos1, João David Freitas, José Wellington Franco and Carlos Caminha,
 
 ## 2026
 
-### Journals (Periódicos)
+## 2025
 
-#### Q1 - IEEE Transactions on...
-**[Título Completo do Artigo]**  
-**Autores:** Nome1, Nome2, Nome3  
-**Journal:** IEEE Transactions on Software Engineering  
-**Volume/Issue:** Vol. X, No. Y, pp. ZZZ-WWW  
-**DOI:** [10.1109/xxx.2024.xxxxxx](link)  
-**Área:** Processamento de Linguagem Natural
+#### **[Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning]**  
+**Autores:** Maria Fernanda A. F. Scarcela, Antonio Everton C. Teixeira, Diego S. de Mendonça, Saulo A. F. de Oliveira,
+Bruno R. dos Santos Silva, Carlos Caminha, Fábio W. G. Costa, Wellington Franco  
+**Conferência:** Anais do XXII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2025)
+**Área:** Visão Computacional
 
-**Abstract:** Breve resumo do artigo em português ou inglês...
+**Abstract:** Os seios paranasais são usados na identificação forense de sexo, geralmente via medidas manuais em imagens de tomografia (CT). Esse estudo propõe automatizar essa classificação por meio de redes neurais convolucionais 3D (ResNet-50, DenseNet-201) integradas a algoritmos supervisionados (SVM, Random Forest, MLP, KNN). Foram testadas oito combinações, das quais a ResNet-50 + RF obteve melhor desempenho com acurácia de 92,60%, precisão de 91,18%, recall de 94,55% e F1-score de 92,64%. Os resultados indicam alto potencial do uso conjunto de deep learning e aprendizado supervisionado para determinar o sexo a partir de máscaras segmentadas dos seios paranasais, com aplicação relevante na área forense.
 
 **Citação BibTeX:**
 ```bibtex
-@article{author2024title,
-  title={Título do Artigo},
-  author={Author, Name and Others},
-  journal={IEEE Transactions on Software Engineering},
-  volume={X},
-  number={Y},
-  pages={ZZZ--WWW},
-  year={2024},
-  publisher={IEEE}
+@inproceedings{eniac,
+ author = {Maria Scarcela and Antonio Teixeira and Diego Mendonça and Saulo Oliveira and Bruno Silva and Carlos Caminha and Fábio Costa and Wellington Franco},
+ title = { Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning},
+ booktitle = {Anais do XXII Encontro Nacional de Inteligência Artificial e Computacional},
+ location = {Fortaleza/CE},
+ year = {2025},
+ keywords = {},
+ issn = {2763-9061},
+ pages = {2068--2079},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/eniac.2025.14530},
+ url = {https://sol.sbc.org.br/index.php/eniac/article/view/38877}
 }
+
 ```
 
-📄 [PDF](link) | 🔗 [DOI](link) | 💻 [Repositório](link) | 📊 [Dataset](link)
-
-**Métricas:** ![Citations](https://img.shields.io/badge/Citations-15-blue) ![Impact Factor](https://img.shields.io/badge/IF-6.5-green)
-
----
-
-#### Q2 - Journal of...
-**[Título do Artigo 2]**  
-**Autores:** Nome1, Nome2, Nome3  
-**Journal:** Journal of Systems and Software  
-**Volume/Issue:** Vol. X, No. Y, pp. ZZZ-WWW  
-**DOI:** [10.1016/j.jss.2024.xxx](link)  
-**Área:** Visão Computacional
-
-**Abstract:** Resumo do segundo artigo...
-
-📄 [PDF](link) | 🔗 [DOI](link) | 💻 [Código](link)
-
----
-
-### Conferências Internacionais
-
-#### A* - Top Tier Conference
-**[Título do Artigo em Conferência]**  
-**Autores:** Nome1, Nome2, Nome3  
-**Conferência:** International Conference on Software Engineering (ICSE 2024)  
-**Local:** Lisbon, Portugal  
-**Data:** April 14-20, 2024  
-**Páginas:** pp. XXX-YYY  
-**Área:** Internet das Coisas
-
-**Abstract:** Resumo do artigo apresentado na conferência...
-
-📄 [PDF](link) | 🔗 [DOI](link) | 📊 [Slides](link) | 🎥 [Apresentação](link) | 💻 [Código](link)
-
-**Prêmio:** 🏆 Best Paper Award
-
----
-
-#### A - Strong Conference
-**[Título de Outro Artigo]**  
-**Autores:** Nome1, Nome2  
-**Conferência:** SBES 2024 - Brazilian Symposium on Software Engineering  
-**Local:** Curitiba, Brasil  
-**Data:** September 2024  
-**Área:** Desenvolvimento de Sistemas
-
-📄 [PDF](link) | 🔗 [DOI](link) | 📊 [Slides](link)
-
----
-
-### Conferências Nacionais
-
-**[Título do Artigo Nacional]**  
-**Autores:** Nome1, Nome2, Nome3  
-**Evento:** XXXIII Simpósio Brasileiro de Banco de Dados (SBBD 2024)  
-**Local:** Florianópolis, Brasil  
-**Data:** Outubro 2024  
-
-📄 [PDF](link) | 📊 [Pôster](link)
-
----
-
-## 2023
-
-### Journals
-
-**[Título do Artigo de 2023]**  
-**Autores:** Nome1, Nome2  
-**Journal:** Computer Vision and Image Understanding  
-**Volume/Issue:** Vol. X, pp. YYY-ZZZ  
-**DOI:** [10.1016/j.cviu.2023.xxx](link)  
-**Área:** Visão Computacional
-
-📄 [PDF](link) | 🔗 [DOI](link)
-
----
-
-### Conferências Internacionais
-
-**[Título do Artigo Conference 2023]**  
-**Autores:** Nome1, Nome2, Nome3  
-**Conferência:** ACL 2023 - Annual Meeting of the Association for Computational Linguistics  
-**Local:** Toronto, Canada  
-**Data:** July 2023  
-**Área:** Processamento de Linguagem Natural
-
-📄 [PDF](link) | 🔗 [DOI](link) | 📊 [Slides](link) | 💻 [Código](link)
-
----
-
-## 2022
-
-### Journals
-
-**[Título do Artigo 2022]**  
-**Autores:** Nome1, Nome2  
-**Journal:** Expert Systems with Applications  
-**Volume/Issue:** Vol. X, pp. YYY-ZZZ  
-**DOI:** [10.1016/j.eswa.2022.xxx](link)  
-**Área:** Internet das Coisas
-
-📄 [PDF](link) | 🔗 [DOI](link)
-
----
-
-### Conferências
-
-**[Título Conference 2022]**  
-**Autores:** Nome1, Nome2  
-**Conferência:** BRACIS 2022 - Brazilian Conference on Intelligent Systems  
-**Local:** Campinas, Brasil  
-**Data:** November 2022  
-
-📄 [PDF](link) | 🔗 [DOI](link)
-
----
-
-## 📖 Capítulos de Livro
-
-**[Título do Capítulo]**  
-**Autores:** Nome1, Nome2  
-**Livro:** Advances in Software Engineering  
-**Editora:** Springer  
-**Ano:** 2024  
-**ISBN:** XXX-X-XXXX-XXXX-X
-
-📄 [Link da Editora](link)
-
-
-## 📋 Publicações por Área
-
-### 🤖 Processamento de Linguagem Natural
-- Total: **10 publicações**
-- [Ver lista completa](por-area/nlp.md)
-
-### 👁️ Visão Computacional
-- Total: **8 publicações**
-- [Ver lista completa](por-area/visao.md)
-
-### 📡 Internet das Coisas
-- Total: **5 publicações**
-- [Ver lista completa](por-area/iot.md)
-
-### 💻 Desenvolvimento de Sistemas
-- Total: **2 publicações**
-- [Ver lista completa](por-area/sistemas.md)
-
----
-
-## 🔍 Como Citar Nossos Trabalhos
-
-Para facilitar as citações, todos os nossos artigos incluem:
-- BibTeX formatado
-- DOI permanente
-- Link direto para PDF (quando disponível)
-- Código e datasets (quando aplicável)
+📄 [PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) | 🔗 [DOI](https://doi.org/10.5753/eniac.2025.14530) | 💻 [Repositório](https://github.com/fernandascarcela/Sex-Estimation-from-3D-Analysis-of-Paranasal-Sinuses) 
 
 [← Voltar ao README Principal](../README.md)
-
-**Última atualização:** Maio 2024
 
 </div>
