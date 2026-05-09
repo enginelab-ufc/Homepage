@@ -52,6 +52,9 @@ Desenvolvimento de um sistema inteligente para classificação do sexo biológic
 **Tecnologias:**  
 `Python` `Pytorch` `MONAI` `Sckit-learn` 
 
+**Parcerias:**
+- Programa de Pós-graduação em Odontologia da Universidade Federal do Ceará
+
 📂 **[Repositório](https://github.com/fernandascarcela/Sex-Estimation-from-3D-Analysis-of-Paranasal-Sinuses)**  
 
 
