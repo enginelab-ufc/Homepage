@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EngineLab Banner](assets/banner.png)
+![EngineLab Banner](assets/equipe 2026.jpeg)
 
 **Pesquisa, Inovação e Desenvolvimento**
 
