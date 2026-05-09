@@ -89,7 +89,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 | 2024 | [Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning] | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
 | 2023 | [Prompt-Driven Time Series Forecasting with Large Language Models] | Bastos, Zairo | ICEIS 2025 | [📄 PDF]((https://www.scitepress.org/Papers/2025/133638/133638.pdf)) |
 
-📑 **[Ver todas as publicações →](publicacoes/artigos.md)**
+📑 **[Ver todas as publicações →](publicações/artigos.md)**
 
 ### Estatísticas
 
@@ -105,7 +105,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas reais. 
 
-**[Ver todos os TCCs desenvolvidos →](tccs/README.md)**
+**[Ver todos os TCCs desenvolvidos →](tccs/tccs.md)**
 
 ### Destaques Recentes
 
@@ -120,12 +120,12 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://via.placeholder.com/150/FFFFFF/000000?text=Parceiro+1" height="80">
-<p><b>Nome da Instituição 1</b></p>
+<img src="https://sbbd.org.br/2025/wp-content/uploads/2025/09/kunumi_inst@4x-2048x616.png" height="80">
+<p><b>Kunumi Lab</b></p>
 </td>
 <td align="center" width="25%">
-<img src="https://via.placeholder.com/150/FFFFFF/000000?text=Parceiro+2" height="80">
-<p><b>Nome da Instituição 2</b></p>
+<img src="https://tse1.mm.bing.net/th/id/OIP.NgCa-GX0cnCzcXCyPG1syAHaDt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="80">
+<p><b>CIDTS - IFCE campus Boa Viagem</b></p>
 </td>
 <td align="center" width="25%">
 <img src="https://via.placeholder.com/150/FFFFFF/000000?text=Parceiro+3" height="80">
