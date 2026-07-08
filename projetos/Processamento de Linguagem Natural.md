@@ -50,7 +50,7 @@ Desenvolvimento de um modelo de linguagem baseado em BERT especificamente otimiz
 
 📂 **[Repositório](https://github.com/enginelabufc/brazilian-bert)**  
 
-**Publicações:** (Se houver)
+**Publicações:** 
 - Paper em NAACL 2025 (Submetido)
 - Dataset paper em LREC 2025 (Em preparação)
 - Blog post técnico
@@ -58,7 +58,6 @@ Desenvolvimento de um modelo de linguagem baseado em BERT especificamente otimiz
 **Parcerias:**
 - Google Research Brasil (cloud credits)
 - PUC-Rio (colaboração em corpus)
-Área: Visão Computacional 
 ---
 
 
