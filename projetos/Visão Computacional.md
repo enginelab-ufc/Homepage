@@ -151,7 +151,51 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
 - Secretaria Municipal de Saúde de Fortaleza
 
 ---
+### Grupo de Pesquisa em Segmentação e Classificação de Cárie Dentária via Imagens Móveis e Radiográficas
 
+**Status:** 🟢 Em andamento
+**Início:** início de 2025 | Previsão de Conclusão: não sei
+**Responsáveis:** Prof. Dr. Wellington Franco e Profa. Dra. Lidiany Karla Azevedo Rodrigues
+
+**Equipe:**
+- Ana Larissa Teixeira Dantas (Graduanda)
+- Jadiel Silva da Cunha (Graduando, IC)
+- Julyana Raab Pereira (Mestranda)
+- Isabelly Lima dos Santos (Mestranda)
+- Beatriz Gonçalves Neves (Doutora)
+- Bruno Riccelli dos Santos Silva (Doutor)
+- Adriana Pigozzo Manso (Doutora)
+- Wellington Franco (Doutor)
+- Lidiany Karla Azevedo Rodrigues (Doutora)
+
+**Bolsa:** PIBIC / Voluntário
+
+**Descrição:** Desenvolvimento de sistemas de telediagnóstico baseados em inteligência artificial para detecção e análise da cárie dentária, priorizando o uso de imagens intraorais capturadas por smartphones para democratizar o acesso ao diagnóstico. O projeto evoluiu da classificação binária e ordinal (3 classes) para frentes mais avançadas, focando na segmentação semântica de imagens RGB e radiográficas. O objetivo central é refinar os limites de detecção e expandir a capacidade de categorização para abranger os estágios completos do sistema ICDAS.
+
+**Objetivos:**
+- Desenvolver e otimizar modelos de visão computacional para a segmentação precisa da cárie dentária em imagens intraorais (RGB).
+- Expandir as classes preditivas para mapear detalhadamente os múltiplos níveis de severidade do critério ICDAS.
+- Implementar algoritmos de segmentação aplicados a exames de raio-X odontológicos.
+- Aumentar a robustez das predições frente a variações do mundo real, como iluminação não padronizada e artefatos de imagem.
+- Consolidar um pipeline computacional de baixo custo computacional e alta eficácia para telediagnóstico remoto.
+
+**Metodologia:**
+- Aquisição e expansão do banco de imagens (smartphones e radiografias) com anotações de especialistas (ground truth).
+- Treinamento de redes neurais profundas (CNNs) para tarefas de segmentação semântica e regressão ordinal.
+- Validação cruzada e testes de estabilidade preditiva.
+- Ajuste fino e otimização de modelos com frameworks modernos para garantir inferência em tempo viável.
+
+**Tecnologias:** 
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `OpenVINO` `Keras`
+
+📂 **[Repositório](https://github.com/larissatx11/Pesquisa-Odonto)**  
+
+**Publicações:** 
+- Artigo aceito no Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS): "Classificação Ordinal de Lesões de Cárie Cavitadas e Não Cavitadas em Fotografias da Superfície Oclusal Baseada no ICDAS com Transfer Learning".
+
+**Parcerias:**
+- Faculdade de Farmácia
+- Odontologia e Enfermagem (FFOE) - UFC Fortaleza
 
 ---
 
