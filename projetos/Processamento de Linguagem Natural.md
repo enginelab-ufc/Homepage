@@ -111,10 +111,26 @@ A proposta busca apoiar a educação inclusiva por meio da automação e persona
 ## ✅ Projetos Concluídos
 
 ### 2025
+### GRAFTEA
+
+**Status:** ✅ Concluído  
+**Período:** Setembro 2024 - Agosto 2025  
+**Responsável:** Prof. Dr. Amanda Drielly Pires Venceslau
+**Equipe:** Giovanna Maria Verissimo Xavier (Graduação) e Amanda Drielly Pires Venceslau(Doutora).
+
+**Descrição:**  
+Este trabalho propõe a construção de um gráfico de conhecimento acadêmico que reúne fontes, como artigos, conjuntos de dados e outros recursos, focados em ferramentas de suporte visual digital aplicadas ao ensino de crianças com autismo.
+
+**Resultados Alcançados:**
+- ✅ O GRAFTAE gerou aproximadamente 1069 triplas RDF, sendo: 709 triplas provenientes de três fontes heterogêneas e 360 triplas inferidas automaticamente pela ontologia.
+- ✅ Reutilização de ontologias do OpenAIRE Graph
+- ✅ Reutilização de estruturas propostas por Knowledge Graph acadêmicos
 
 
+**Tecnologias:**  
+`RDF` `Turtle` `Sparql` `GraphDB` `rdflib` `Zenodo API` `Protégé`
 
-
+📂 **[Repositório](https://github.com/GiovannaXavier18/GRAFTAE.git)**  
 ---
 
 
