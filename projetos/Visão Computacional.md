@@ -95,7 +95,60 @@ https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing
 📂 **[Repositório](PRIVADO)**
 
 ---
+### HygeIA - Sistema de Otimização de Saúde Bucal no SUS
 
+**Status:** 🟢 Em andamento   
+**Início:** Agosto 2025 | **Previsão de Conclusão:** Agosto 2027  
+**Responsável:** Prof. Dr. José Wellington Franco da Silva
+
+**Equipe:**
+- Antonio Everton Coelho Teixeira (Graduando)
+- Cainã Farias da Silva (Graduando)
+- Gisele Gomes Costa (Graduanda)
+- Wagner Vaconcelos Dias (Graduando)
+  
+**Bolsa**: -
+
+**Descrição:**  
+Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimização da saúde bucal no SUS, com foco na identificação de cáries e lesões bucais associada ao câncer de boca. As atividades envolvem o desenvolvimento e avaliação de modelos preditivos e sistemas inteligentes voltados à análise de imagens odontológicas, à prevenção de doenças bucais e à gestão de informações em saúde, contribuindo para a melhoria da qualidade do cuidado e para o fortalecimento da atenção básica.
+
+
+**Objetivos:**
+
+- Apoio ao diagnóstico precoce de doenças bucais;
+- Contribuir para a otimização da gestão de informações em saúde no contexto do SUS;
+- Apoiar profissionais da atenção básica com ferramentas tecnológicas voltadas à tomada de decisão;
+- Incentivar a integração entre tecnologia e pesquisa na saúde pública.
+
+
+**Metodologia:**
+- Coleta e organização de imagens de dentes e lesões bucais para a formação da base de dados do projeto;
+- Aplicação do modelo YOLO para detecção e identificação de lesões nas imagens odontológicas;
+- Desenvolvimento e treinamento de modelos de Aprendizado de Máquina voltados à classificação e identificação de possíveis casos de cáries e câncer de boca;
+- Avaliação dos modelos por meio de métricas de desempenho;
+- Análise dos resultados obtidos para apoio ao diagnóstico;
+- Documentação e validação das soluções desenvolvidas visando aplicação no contexto do SUS. 
+  
+
+**Tecnologias:**  
+`Python` `YOLO` `JavaScript` `React` `FastAPI` `SQLite`
+
+📂 **[Repositório](https://github.com/CainDeVV/Pet-Saude.git)**  
+
+
+**Publicações:** 
+- Revista CRO-CE
+   - Entre Algoritmos e Autonomia: Dilemas Éticos da Inteligência Artificial na Odontologia Digital
+   - Likes, Filtros e Ética Profissional: a Imagem do Cirurgião-Dentista na Era Digital
+   - Sorrisos Digitais, Dados Sensíveis: Desafios Éticos na Era da Odontologia Conectada
+   - Tecnologia Com Sensibilidade: O Desafio Ético da Humanização na Odontologia Digital
+       
+  
+**Parcerias:**
+- Curso de Odontologia - UFC (Fortaleza)
+- EngineLab
+- Ministério da Saúde
+- Secretaria Municipal de Saúde de Fortaleza
 
 ---
 
