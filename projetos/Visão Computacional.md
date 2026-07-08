@@ -59,7 +59,40 @@ https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing
 - Programa de Pós-Graduação em Odontologia (validação clínica e base de dados)
 
 ---
+### SADE - Sistema de Auxílio ao Pré-diagnóstico Domiciliar de Escoliose
 
+**Status:** 🟢 Em andamento
+
+**Início:** Setembro 2025 | **Previsão de Conclusão:** Dezembro 2026
+
+**Responsável:** Prof. Bruno Riccelli
+
+**Equipe:** 
+- Pedro Kauan Silveira Silva
+- Mikeyas Brito dos Santos
+- Alison Dantas de Moura
+- Luis Felipe de Andrade Marques
+- Josué Lemos Mesquita
+
+**Descrição:** Desenvolvimento de uma plataforma digital voltada para a triagem inicial e rastreamento da escoliose por meio de smartphones. O sistema utiliza Inteligência Artificial (deep learning) e visão computacional para guiar o usuário e analisar imagens do Teste de Adams, fornecendo laudos automáticos sugestivos e orientações para encaminhamento médico especializado.
+
+**Objetivos:**
+
+* Auxiliar o pré-diagnóstico domiciliar da escoliose com detecção de assimetrias.
+* Desenvolver um validador de imagem em tempo real (luminosidade e enquadramento).
+* Integrar dados clínicos (anamnese) e visuais na geração de laudos em PDF.
+* Permitir interoperabilidade com Prontuários Médicos via HL7 FHIR.
+
+**Metodologia:**
+
+* Arquitetura de software baseada em Domain-Driven Design (DDD) e Clean Architecture.
+* Criação de tutorial interativo para o posicionamento correto do paciente.
+* Treinamento e inferência de modelo de Deep Learning utilizando CNNs.
+* Implementação de fluxos e regras de negócio no backend.
+
+**Tecnologias:** `Python` `FastAPI` `PyTorch` `Visão Computacional` `Docker` `HL7 FHIR` `SQL`
+
+📂 **[Repositório](PRIVADO)**
 
 ---
 
