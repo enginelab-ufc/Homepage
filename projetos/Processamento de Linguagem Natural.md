@@ -86,7 +86,7 @@ A proposta busca apoiar a educação inclusiva por meio da automação e persona
 
 
 **Metodologia:**
-- *LLMs** integrada à técnica de **RAG** para auxiliar na geração automática de **PEIs**.
+- **LLMs** integrada à técnica de **RAG** para auxiliar na geração automática de **PEIs**.
 
 
 **Tecnologias:**  
@@ -94,7 +94,7 @@ A proposta busca apoiar a educação inclusiva por meio da automação e persona
 
 
 **Publicações:** 
-- SBBD 2026 - Demos paper(Submetido)
+- SBBD 2026 - Demos paper (Submetido)
 
 
 **Parcerias:**
