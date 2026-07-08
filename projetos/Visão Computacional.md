@@ -50,12 +50,12 @@ A cárie dentária é uma lesão bacteriana progressiva que destrói os tecidos 
 - Avaliação de desempenho do modelo através de métricas cruzadas com o padrão-ouro (máscaras reais de referência demarcadas por estudantes de mestrado em Odontologia).
 
 **Tecnologias:**
-Python, PyTorch, YOLO (Ultralytics), Torchvision, OpenCV, Albumentations, Scikit-Learn
+`Python`,`PyTorch`, `YOLO (Ultralytics)`, `Torchvision`, `OpenCV`, `Albumentations`, `Scikit-Learn`
 
 **Repositório:**
 https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing 
 
-Parcerias:
+**Parcerias:**
 Programa de Pós-Graduação em Odontologia (validação clínica e base de dados)
 
 ---
