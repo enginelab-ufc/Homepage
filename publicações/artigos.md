@@ -2,20 +2,6 @@
 # 📚 Publicações Científicas - EngineLab
 
 Lista completa de artigos científicos, trabalhos publicados em conferências e journals pelo EngineLab.
-
-## 📊 Estatísticas de Publicação
-
-<div align="center">
-
-| Período | Artigos em Conferências | Artigos em Journals | Capítulos de Livro | Total |
-|---------|------------------------|--------------------|--------------------|-------|
-| **2024** | 8 | 3 | 1 | **12** |
-| **2023** | 6 | 2 | 0 | **8** |
-| **2022** | 4 | 1 | 0 | **5** |
-| **Total** | **18** | **6** | **1** | **25** |
-
-</div>
-
 ---
 
 ## 🏆 Publicações em Destaque
