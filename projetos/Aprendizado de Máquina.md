@@ -58,12 +58,103 @@ Python ipynb
 - Programa de Mestrado Odontologia Fortaleza-CE
 
 ---
+### Análise e Predição de Insuficiência Cardíaca
 
+**Status:** 🟢 Em andamento
+
+**Início:** Janeiro 2026 | **Previsão de Conclusão:** Junho 2026
+
+**Responsável:** Prof. Bruno Riccelli
+
+**Equipe:** 
+- Pedro Kauan Silveira Silva
+- Mikeyas Brito dos Santos
+- Gisele Gomes
+**Bolsa**: IC
+
+**Descrição:** Desenvolvimento de um modelo preditivo baseado em Inteligência Artificial para avaliar o risco e detectar padrões associados à insuficiência cardíaca. O projeto processa bases de dados de saúde para extrair características clínicas (biomarcadores, fatores demográficos e comorbidades), auxiliando na detecção precoce e servindo como uma ferramenta de suporte à decisão clínica.
+
+**Objetivos:**
+
+* Realizar o pré-processamento e análise exploratória de datasets de saúde cardiovascular.
+* Treinar e otimizar modelos de aprendizado de máquina para classificação de risco cardíaco.
+* Identificar as principais features clínicas que influenciam a progressão da insuficiência cardíaca.
+* Avaliar os modelos utilizando métricas como Acurácia, Precisão, Recall e AUC-ROC.
+
+**Metodologia:**
+
+* Limpeza de dados e tratamento de anomalias/valores ausentes em registros clínicos.
+* Engenharia de atributos (feature engineering) para melhorar o poder de separação das classes.
+* Validação cruzada e ajuste de hiperparâmetros de algoritmos de classificação.
+* Documentação e versionamento do modelo preditivo para reprodutibilidade científica.
+
+**Tecnologias:** `Python` `Pandas` `Scikit-Learn` `PyTorch Lightning` `Matplotlib` `Jupyter Notebook`
+
+📂 **[Repositório](https://github.com/pkziinn10/Heart-Failure)**
 
 ---
+### Modelo Preditivo para Estimativa de Faturamento
 
+**Status:** 🟢 Em andamento
 
+**Início:** Janeiro 2026 | **Previsão de Conclusão:** Junho 2026
+
+**Responsável:** Prof. Bruno Riccelli
+
+**Equipe:** - Pedro Kauan Silveira Silva (Desenvolvedor Principal)
+**Bolsa**: IC
+
+**Descrição:** Construção de um sistema analítico focado na predição e estimativa de faturamento utilizando histórico de registros operacionais e financeiros. A solução busca identificar sazonalidades, tendências e anomalias na receita para projetar resultados futuros, otimizando o planejamento estratégico e a alocação de recursos institucionais baseada em dados.
+
+**Objetivos:**
+
+* Prever o faturamento mensal e projetar tendências financeiras.
+* Estruturar uma base de dados consolidada a partir de fontes históricas de cobrança e serviços.
+* Otimizar a tomada de decisão gerencial através de insights preditivos.
+* Implementar pipelines analíticos contínuos para atualização de projeções.
+
+**Metodologia:**
+
+* Integração e consolidação de dados transacionais.
+* Aplicação de modelos preditivos e regressão para estimativa de valores contínuos.
+* Avaliação estatística da precisão das previsões usando métricas padronizadas.
+* Estruturação de um fluxo analítico reprodutível e versionado.
+
+**Tecnologias:** `Python` `Pandas` `Scikit-Learn` `SQL` `Docker` `Git`
+
+📂 **[Repositório](PRIVADO)**
 ---
+### AUSMI - Analyze the Use of Medical Services by the Elderly
+
+**Status:** 🟢 Em andamento
+
+**Início:** Janeiro 2026 | **Previsão de Conclusão:** Junho 2026
+
+**Responsável:** Prof. Bruno Riccelli
+
+**Equipe:** 
+- Pedro Kauan Silveira Silva
+- Mikeyas Brito dos Santos
+
+**Descrição:** Desenvolvimento de um projeto analítico focado em explorar os padrões de uso de serviços médicos por indivíduos com 50 anos ou mais. O projeto utiliza dados da *National Poll on Healthy Aging* para avaliar e comparar diferentes classificadores de aprendizado de máquina na previsão da frequência anual de consultas médicas dessa população, auxiliando no entendimento e planejamento das demandas de saúde na terceira idade.
+
+**Objetivos:**
+
+* Explorar e analisar dados de saúde pública focados na população 50+.
+* Prever a frequência anual de visitas a médicos utilizando dados demográficos e clínicos.
+* Treinar e comparar o desempenho de múltiplos algoritmos de classificação (como XGBoost, Random Forest e SVM).
+* Documentar a metodologia e realizar validação estatística rigorosa dos resultados.
+
+**Metodologia:**
+
+* Pré-processamento e limpeza da base de dados da *National Poll on Healthy Aging*.
+* Aplicação de validação cruzada estratificada (*stratified cross-validation*) para garantir a robustez dos modelos.
+* Ajuste e otimização de hiperparâmetros (*hyperparameter tuning*).
+* Avaliação de desempenho e validação estatística comparativa utilizando o teste de Wilcoxon.
+
+**Tecnologias:** `Python` `Pandas` `Scikit-Learn` `XGBoost` `Estatística` `Machine Learning`
+
+📂 **[Repositório](https://github.com/pkziinn10/Analyze-the-use-of-medical-services-by-the-elderly)**
 
 ## ✅ Projetos Concluídos
 
