@@ -59,7 +59,46 @@ Desenvolvimento de um modelo de linguagem baseado em BERT especificamente otimiz
 - Google Research Brasil (cloud credits)
 - PUC-Rio (colaboração em corpus)
 ---
+### IluminIA
 
+**Status:** 🟢 Em andamento   
+**Início:** Agosto 2025 | **Previsão de Conclusão:** Agosto 2026  
+**Responsável:** Prof. Dra. Amanda Drielly Pires Venceslau
+**Equipe:**
+- Marciel Barros Pereira (Supervisor)
+- Gabriel (Mestrando)
+- Maria Clara Pereira de Sousa (Bolsista)
+- Mikeyas (Bolsista)
+- Emerson (Bolsista)
+- Sthefany (Bolsista)
+
+**Bolsa**: FASTEF
+
+**Descrição:**  
+O **IluminIA** é um projeto voltado para o desenvolvimento de uma arquitetura baseada em **Large Language Models (LLMs)** integrada à técnica de **Retrieval-Augmented Generation (RAG)** para auxiliar na geração automática de **Planos Educacionais Individualizados (PEIs)**.
+
+A proposta busca apoiar a educação inclusiva por meio da automação e personalização de documentos pedagógicos, considerando diretrizes educacionais, necessidades específicas dos estudantes e práticas inclusivas.
+
+
+**Objetivos:**
+- Desenvolver uma arquitetura baseada em LLMs e RAG para geração automática de PEIs
+
+
+
+**Metodologia:**
+- *LLMs** integrada à técnica de **RAG** para auxiliar na geração automática de **PEIs**.
+
+
+**Tecnologias:**  
+`FastApi` `React` `Docker` `PostgreSQL` 
+
+
+**Publicações:** 
+- SBBD 2026 - Demos paper(Submetido)
+
+
+**Parcerias:**
+- FASTEF
 
 ---
 
