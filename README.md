@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EngineLab Banner](assets/banner.png)
+![EngineLab Banner](assets/banner2.png)
 
 **Pesquisa, Inovação e Desenvolvimento**
 
