@@ -49,9 +49,9 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 ## 👥 Coordenação
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="35%">
+<td align="center" width="50%">
 <img src="assets/Wellington.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Wellington Franco">
 <h4>Prof. Dr. Wellington Franco</h4>
 <p><i>Coordenador</i></p>
@@ -65,7 +65,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </p>
 </td>
 
-<td align="center" width="31%">
+<td align="center" width="50%">
 <img src="assets/Marciel.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Marciel Barros">
 <h4>Prof. Dr. Marciel Barros</h4>
 <p><i>Coordenador</i></p>
@@ -79,7 +79,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </p>
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="assets/Bruno.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Bruno Riccelli">
 <h4>Prof. Dr. Bruno Riccelli️️️</h4>
 <p><i>Coordenador</i></p>
