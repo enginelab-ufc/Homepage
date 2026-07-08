@@ -85,7 +85,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 | Ano | Título | Autores | Venue | Links |
 |-----|--------|---------|-------|-------|
-| 2024 | [LLM4Series: Structured Prompting for Time Series Forecasting with LLMs | Silva, Wesley Barbosa | WorKshop TSALM no ICLR 2026 | [📄 PDF](https://openreview.net/forum?id=6fbcYFRoUL) |
+| 2026 | [LLM4Series: Structured Prompting for Time Series Forecasting with LLMs | Silva, Wesley Barbosa | WorKshop TSALM no ICLR 2026 | [📄 PDF](https://openreview.net/forum?id=6fbcYFRoUL) |
 | 2024 | [Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning] | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
 | 2023 | [Prompt-Driven Time Series Forecasting with Large Language Models] | Bastos, Zairo | ICEIS 2025 | [📄 PDF]((https://www.scitepress.org/Papers/2025/133638/133638.pdf)) |
 
@@ -126,14 +126,6 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 <td align="center" width="25%">
 <img src="https://tse1.mm.bing.net/th/id/OIP.NgCa-GX0cnCzcXCyPG1syAHaDt?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="80">
 <p><b>CIDTS - IFCE campus Boa Viagem</b></p>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/FFFFFF/000000?text=Parceiro+3" height="80">
-<p><b>Nome da Instituição 3</b></p>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150/FFFFFF/000000?text=Parceiro+4" height="80">
-<p><b>Nome da Instituição 4</b></p>
 </td>
 </tr>
 </table>
