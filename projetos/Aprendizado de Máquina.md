@@ -58,6 +58,7 @@ Python ipynb
 - Programa de Mestrado Odontologia Fortaleza-CE
 
 ---
+
 ### Análise e Predição de Insuficiência Cardíaca
 
 **Status:** 🟢 Em andamento
@@ -123,7 +124,9 @@ Python ipynb
 **Tecnologias:** `Python` `Pandas` `Scikit-Learn` `SQL` `Docker` `Git`
 
 📂 **[Repositório](PRIVADO)**
+
 ---
+
 ### AUSMI - Analyze the Use of Medical Services by the Elderly
 
 **Status:** 🟢 Em andamento
