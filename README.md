@@ -23,57 +23,73 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/95a910a2-114a-4ad0-aec0-ab96c612701b_1390x926.png" width="80" height="80">
-<h3>🤖 Processamento de Linguagem Natural</h3>
+<img src="assets/NLP.jpg" width="120" height="120" style="border-radius: 50%;" alt="Processamento de Linguagem Natural">
+<h3>Processamento de Linguagem Natural</h3>
 <p>Pesquisa e desenvolvimento de aplicações com Large Language Models (LLMs).</p>
-<a href="projetos/Processamento%20de%20Linguagem%20Natural.md">Ver Projetos →</a>
+<a href="projetos/Processamento%20de%20Linguagem%20Natural.md"><b>Ver Projetos →</b></a>
 </td>
+
 <td width="33%" align="center">
-<img src="https://vejjo.com.br/wp-content/uploads/2023/09/O-Que-e-a-Internet-das-Coisas-IoT-e-Por-Que-e-Crucial-pro-Futuro.jpg" width="100" height="80">
-<h3>📡 Internet das Coisas</h3>
+<img src="assets/IOT.jpg" width="120" height="120" style="border-radius: 12px;" alt="Internet das Coisas">
+<h3>Internet das Coisas</h3>
 <p>Desenvolvimento de sistemas embarcados, sensoriamento remoto e soluções conectadas.</p>
-<a href="projetos/Internet%20das%20Coisas.md">Ver Projetos →</a>
+<a href="projetos/Internet%20das%20Coisas.md"><b>Ver Projetos →</b></a>
 </td>
+
 <td width="33%" align="center">
-<img src="https://sigmoidal.ai/wp-content/uploads/2023/07/O-que-e-Visao-Computacional.png" width="100" height="80">
-<h3>👁️ Visão Computacional</h3>
+<img src="assets/VC.jpg" width="120" height="120" style="border-radius: 12px;" alt="Visão Computacional">
+<h3>Visão Computacional</h3>
 <p>Reconhecimento de padrões, análise de imagens médicas e aprendizado profundo aplicado.</p>
-<a href="projetos/Visão%20Computacional.md">Ver Projetos →</a>
+<a href="projetos/Visão%20Computacional.md"><b>Ver Projetos →</b></a>
 </td>
 </tr>
 </table>
 
-Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)** aplicando as melhores práticas de engenharia de software.
+Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)**, aplicando boas práticas de engenharia de software.
 
 ## 👥 Coordenação
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%">
-<img src="https://media.licdn.com/dms/image/v2/C4D03AQHLPlg4MqQ4XA/profile-displayphoto-shrink_800_800-alternative/profile-displayphoto-shrink_800_800-alternative/0/1528980010771?e=1779926400&v=beta&t=3vCqdbZfCHK89lMC_EcyEWDyQshgyRnskP-fpGbFLVM" width="150" style="border-radius: 50%">
-<h4><b>Prof. Dr. Wellington Franco</b></h4>
+<td align="center" width="35%">
+<img src="assets/Wellington.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Wellington Franco">
+<h4>Prof. Dr. Wellington Franco</h4>
 <p><i>Coordenador</i></p>
-<p>📧 wellington@crateus.ufc.br</p>
 <p>
-<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/5168415467086883)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="mailto:wellington@crateus.ufc.br">📧 wellington@crateus.ufc.br</a>
+</p>
+<p>
+<a href="http://lattes.cnpq.br/5168415467086883">
+<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+</a>
 </p>
 </td>
-<td align="center" width="50%">
-<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4434779A1" width="150" style="border-radius: 50%">
-<h4><b>Prof. Dr. Marciel Barros</b></h4>
+
+<td align="center" width="31%">
+<img src="assets/Marciel.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Marciel Barros">
+<h4>Prof. Dr. Marciel Barros</h4>
 <p><i>Coordenador</i></p>
-<p>📧 marciel@crateus.ufc.br</p>
 <p>
-<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/0917260030364584)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="mailto:marciel@crateus.ufc.br">📧 marciel@crateus.ufc.br</a>
+</p>
+<p>
+<a href="http://lattes.cnpq.br/0917260030364584">
+<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+</a>
 </p>
 </td>
-<td align="center" width="50%">
-<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8120770E0" width="150" style="border-radius: 50%">
-<h4><b>Prof. Dr. Bruno Riccelli</b></h4>
+
+<td align="center" width="33%">
+<img src="assets/Bruno.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Bruno Riccelli">
+<h4>Prof. Dr. Bruno Riccelli️️️</h4>
 <p><i>Coordenador</i></p>
-<p>📧 bruno.silva@crateus.ufc.br</p>
 <p>
-<a href="[http://lattes.cnpq.br/](http://lattes.cnpq.br/9288483499965859)"><img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white"></a>
+<a href="mailto:bruno.silva@crateus.ufc.br">📧 bruno.silva@crateus.ufc.br</a>
+</p>
+<p>
+<a href="http://lattes.cnpq.br/9288483499965859">
+<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+</a>
 </p>
 </td>
 </tr>
@@ -89,7 +105,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 | 2024 | [Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning] | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
 | 2023 | [Prompt-Driven Time Series Forecasting with Large Language Models] | Bastos, Zairo | ICEIS 2025 | [📄 PDF]((https://www.scitepress.org/Papers/2025/133638/133638.pdf)) |
 
-📑 **[Ver todas as publicações →](publicações/artigos.md)**
+**[Ver todas as publicações →](publicações/artigos.md)**
 
 ### Estatísticas
 
