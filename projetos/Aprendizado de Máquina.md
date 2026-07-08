@@ -159,10 +159,68 @@ Python ipynb
 
 📂 **[Repositório](https://github.com/pkziinn10/Analyze-the-use-of-medical-services-by-the-elderly)**
 
+--
+
+### Green AI in Credit Risk: Carbon-Aware Machine Learning
+
+**Status:** 🟢 Em andamento   
+**Início:** Outubro 2025 | **Previsão de Conclusão:** Julho 2026  
+**Responsável:** Prof. Dr. Marcos Roberto Machado  
+**Equipe:**
+- Antonio Everton Coelho Teixeira (Graduando)
+- José Wellington Franco da Silva (Doutorado)
+
+
+**Descrição:**  
+Projeto de pesquisa voltado para análise do impacto ambiental de modelos de aprendizado de máquina aplicados à previsão de risco de crédito. O estudo investigou como estratégias de engenharia e seleção de atributos afetam simultaneamente o desempenho preditivo e o consumo energético dos modelos. Foram realizados experimentos considerando diferentes níveis de dimensionalidade das variáveis para analisar o equilíbrio entre eficiência computacional e emissões de carbono.
+
+**Objetivos:**
+- Investigar a relação entre desempenho preditivo e impacto ambiental
+- Avaliar o efeito da dimensionalidade das características (-10% até +50%)
+- Comparar emissões e consumo energético sob diferentes cenários experimentais
+- Comparar frameworks de monitoramento de carbono
+- Propor métricas que integrem desempenho e sustentabilidade computacional
+
+**Metodologia:**
+- Seleção de atributos utilizando Mutual Information
+- Construção de 11 cenários experimentais com redução e aumento progressivo de atributos
+- Avaliação dos modelos Random Forest, LightGBM e Redes Neurais Artificiais
+- Monitoramento energético e cálculo de emissões utilizando CodeCarbon e CarbonTracker
+
+**Tecnologias:**  
+`Python` `CodeCarbon` `CarbonTracker` `Pandas` `Numpy` `Scikit-Learn`
+
+📂 **[Repositório](https://github.com/EvertonTeix/Green-AI-in-Credit-Risk-Balancing-Performance-and-Carbon-Efficiency)**  
+
+**Parcerias:**
+- University of Twente (Universidade de Twente)
+
 ## ✅ Projetos Concluídos
 
 ### 2025
+### Balancing Accuracy, Fairness, Explainability and Sustainability in Peer-to-Peer Credit Risk Assessment
 
+**Status:** ✅ Concluído  
+**Período:** Fevereiro 2025 - Agosto 2025  
+**Responsável:** Prof. Dr. Marcos Roberto Machado  
+**Equipe:** Antonio Everton Coelho Teixeira (Graduação), José Wellington Franco da Silva (Doutorado)
+
+**Descrição:**  
+Projeto de pesquisa voltado para análise dos trade-offs entre desempenho preditivo, justiça algorítmica, explicabilidade e sustentabilidade em modelos de aprendizado de máquina aplicados à previsão de inadimplência em plataformas de empréstimos Peer-to-Peer (P2P). O estudo avaliou diferentes classificadores amplamente utilizados em crédito financeiro utilizando um protocolo reproduzível orientado à governança responsável de sistemas de IA.
+
+**Resultados Alcançados:**
+- ✅ Benchmark de classificadores para previsão de risco de crédito P2P
+- ✅ Avaliação de desempenho utilizando Accuracy, Precision, Recall, F1-score e AUC
+- ✅ Análise de justiça algorítmica por meio de Disparate Impact
+- ✅ Aplicação de métodos de explicabilidade utilizando SHAP e LIME
+- ✅ Quantificação de consumo energético e emissões de CO₂ utilizando CodeCarbon
+- ✅ Avaliação do custo ambiental por ganho de desempenho preditivo
+- ✅ Identificação e análise dos trade-offs entre precisão, justiça, explicabilidade e sustentabilidade
+
+**Tecnologias:**  
+`Python` `SHAP` `LIME` `CodeCarbon` `Pandas` `Numpy`
+
+📂 **[Repositório](https://github.com/EvertonTeix/p2p-credit-risk-tradeoffs)**  
 
 
 
