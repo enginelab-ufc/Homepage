@@ -56,7 +56,7 @@ A cárie dentária é uma lesão bacteriana progressiva que destrói os tecidos 
 https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing 
 
 **Parcerias:**
-Programa de Pós-Graduação em Odontologia (validação clínica e base de dados)
+- Programa de Pós-Graduação em Odontologia (validação clínica e base de dados)
 
 ---
 
