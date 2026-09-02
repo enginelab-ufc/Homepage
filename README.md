@@ -13,40 +13,78 @@
 
 ---
 
-## 📋 Sobre o Laboratório
+## Sobre o Laboratório
 
 O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federal do Ceará (UFC) — Campus Crateús, com foco no desenvolvimento de soluções inovadoras em Inteligência Artificial e sistemas computacionais. O laboratório atua em pesquisa, desenvolvimento e inovação tecnológica, promovendo projetos acadêmicos e científicos que buscam gerar impacto na sociedade e contribuir para a formação de pesquisadores qualificados.
 
 
-## 🎯 Áreas de Pesquisa
+## Áreas de Pesquisa
+
 <table>
+<!-- Imagens -->
 <tr>
-<td width="33%" align="center">
-<img src="assets/NLP.jpg" width="120" height="120" style="border-radius: 50%;" alt="Processamento de Linguagem Natural">
-<h3>Processamento de Linguagem Natural</h3>
-<p>Pesquisa e desenvolvimento de aplicações com Large Language Models (LLMs).</p>
-<a href="projetos/Processamento%20de%20Linguagem%20Natural.md"><b>Ver Projetos →</b></a>
-</td>
+  <td align="center" width="33.33%">
+    <img src="assets/NLP.jpg" width="140" height="140" alt="Processamento de Linguagem Natural">
+  </td>
 
-<td width="33%" align="center">
-<img src="assets/IOT.jpg" width="120" height="120" style="border-radius: 12px;" alt="Internet das Coisas">
-<h3>Internet das Coisas</h3>
-<p>Desenvolvimento de sistemas embarcados, sensoriamento remoto e soluções conectadas.</p>
-<a href="projetos/Internet%20das%20Coisas.md"><b>Ver Projetos →</b></a>
-</td>
+  <td align="center" width="33.33%">
+    <img src="assets/IOT.jpg" width="140" height="140" alt="Internet das Coisas">
+  </td>
 
-<td width="33%" align="center">
-<img src="assets/VC.jpg" width="120" height="120" style="border-radius: 12px;" alt="Visão Computacional">
-<h3>Visão Computacional</h3>
-<p>Reconhecimento de padrões, análise de imagens médicas e aprendizado profundo aplicado.</p>
-<a href="projetos/Visão%20Computacional.md"><b>Ver Projetos →</b></a>
-</td>
+  <td align="center" width="33.33%">
+    <img src="assets/VC.jpg" width="140" height="140" alt="Visão Computacional">
+  </td>
+</tr>
+
+<!-- Títulos -->
+<tr>
+  <td align="center">
+    <strong>Processamento de Linguagem Natural</strong>
+  </td>
+
+  <td align="center">
+    <strong>Internet das Coisas</strong>
+  </td>
+
+  <td align="center">
+    <strong>Visão Computacional</strong>
+  </td>
+</tr>
+
+<!-- Descrições -->
+<tr>
+  <td align="center" valign="top">
+    Aplicações de Inteligência Artificial baseadas em processamento de linguagem natural e Large Language Models (LLMs).
+  </td>
+
+  <td align="center" valign="top">
+    Sistemas embarcados, sensoriamento remoto, dispositivos inteligentes e soluções conectadas.
+  </td>
+
+  <td align="center" valign="top">
+    Reconhecimento de padrões, análise de imagens, aprendizado profundo e aplicações em imagens médicas.
+  </td>
+</tr>
+
+<!-- Links -->
+<tr>
+  <td align="center">
+    <a href="projetos/Processamento%20de%20Linguagem%20Natural.md"><b>Ver Projetos →</b></a>
+  </td>
+
+  <td align="center">
+    <a href="projetos/Internet%20das%20Coisas.md"><b>Ver Projetos →</b></a>
+  </td>
+
+  <td align="center">
+    <a href="projetos/Visão%20Computacional.md"><b>Ver Projetos →</b></a>
+  </td>
 </tr>
 </table>
 
 Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)**, aplicando boas práticas de engenharia de software.
 
-## 👥 Coordenação
+## Coordenação
 
 <table>
 <!-- Fotos -->
@@ -127,7 +165,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </tr>
 </table>
 
-## 📚 Produção Científica
+## Produção Científica
 
 ### Publicações Recentes
 
@@ -149,7 +187,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 </div>
 
-## 🎓 Trabalhos de Conclusão de Curso
+## Trabalhos de Conclusão de Curso
 
 Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas reais. 
 
@@ -161,7 +199,7 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 - **[2025]** *Previsão de séries temporais orientada por prompt com modelos de linguagem de grande escalas* - Zairo Bastos | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/80020)
 - **[2025]** *Um estudo comparativo de modelos de aprendizado de máquina para classificação de flores apícolas: integrando extratores de texturas e classificadores* - Letícia Torres | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/79979)
 
-## 🤝 Parcerias
+## Parcerias
 
 <div align="center">
 
@@ -185,13 +223,13 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
