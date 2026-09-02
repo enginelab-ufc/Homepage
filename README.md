@@ -1,5 +1,7 @@
-# 🔬 EngineLab - Laboratório de Engenharia de Software e Sistemas
-
+<h1>
+  <img src="assets/icons/lab.png" width="30" height="30">
+  EngineLab - Laboratório de Engenharia de Software e Sistemas
+</h1>
 <div align="center">
 
 ![EngineLab Banner](assets/banner2.png)
