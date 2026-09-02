@@ -16,7 +16,7 @@
 ---
 
 <h2>
-  <img src="assets/icons/info.png" width="25" height="25">
+  <img src="assets/icons/info.png" width="22" height="22">
   Sobre o Laboratório
 </h2>
 
@@ -24,7 +24,7 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 
 
 <h2>
-  <img src="assets/icons/target.svg" width="22" height="22">
+  <img src="assets/icons/lupa.png" width="22" height="22">
   Áreas de Pesquisa
 </h2>
 
@@ -93,7 +93,7 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)**, aplicando boas práticas de engenharia de software.
 
 <h2>
-  <img src="assets/icons/users.svg" width="22" height="22">
+  <img src="assets/icons/coordenacao.png" width="22" height="22">
   Coordenação
 </h2>
 
@@ -177,7 +177,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </table>
 
 <h2>
-  <img src="assets/icons/book-open.svg" width="22" height="22">
+  <img src="assets/icons/artigo.png" width="20" height="22">
   Produção Científica
 </h2>
 
@@ -192,7 +192,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 **[Ver todas as publicações →](publicações/artigos.md)**
 
 <h2>
-  <img src="assets/icons/mail.svg" width="22" height="22">
+  <img src="assets/icons/estatistica.png" width="23" height="24">
   Estatísticas
 </h2>
 
@@ -205,7 +205,7 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </div>
 
 <h2>
-  <img src="assets/icons/graduation-cap.svg" width="22" height="22">
+  <img src="assets/icons/formatura.png" width="23" height="23">
   Trabalhos de Conclusão de Curso
 </h2>
 
@@ -220,7 +220,7 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 - **[2025]** *Um estudo comparativo de modelos de aprendizado de máquina para classificação de flores apícolas: integrando extratores de texturas e classificadores* - Letícia Torres | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/79979)
 
 <h2>
-  <img src="assets/icons/handshake.svg" width="22" height="22">
+  <img src="assets/icons/parcerias.png" width="22" height="22">
   Parcerias
 </h2>
 
@@ -242,7 +242,7 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 </div>
 
 <h2>
-  <img src="assets/icons/cpu.svg" width="22" height="22">
+  <img src="assets/icons/ferramentas.png" width="22" height="22">
   Tecnologias que Utilizamos
 </h2>
 
@@ -260,7 +260,7 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 </div>
 
 <h2>
-  <img src="assets/icons/mail.svg" width="22" height="22">
+  <img src="assets/icons/contato.png" width="22" height="22">
   Contato
 </h2>
 
