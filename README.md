@@ -19,7 +19,6 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 
 
 ## 🎯 Áreas de Pesquisa
-
 <table>
 <tr>
 <td width="33%" align="center">
@@ -50,48 +49,81 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 ## 👥 Coordenação
 
 <table>
+<!-- Fotos -->
 <tr>
-<td align="center" width="50%">
-<img src="assets/Wellington.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Wellington Franco">
-<h4>Prof. Dr. Wellington Franco</h4>
-<p><i>Coordenador</i></p>
-<p>
-<a href="mailto:wellington@crateus.ufc.br">📧 wellington@crateus.ufc.br</a>
-</p>
-<p>
-<a href="http://lattes.cnpq.br/5168415467086883">
-<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
-</a>
-</p>
-</td>
+  <td align="center" width="25%">
+    <img src="assets/Wellington.jpeg" width="180" height="180" alt="Prof. Dr. Wellington Franco">
+  </td>
 
-<td align="center" width="50%">
-<img src="assets/Marciel.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Marciel Barros">
-<h4>Prof. Dr. Marciel Barros</h4>
-<p><i>Coordenador</i></p>
-<p>
-<a href="mailto:marciel@crateus.ufc.br">📧 marciel@crateus.ufc.br</a>
-</p>
-<p>
-<a href="http://lattes.cnpq.br/0917260030364584">
-<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
-</a>
-</p>
-</td>
+  <td align="center" width="25%">
+    <img src="assets/Marciel.jpeg" width="180" height="180" alt="Prof. Dr. Marciel Barros">
+  </td>
 
-<td align="center" width="50%">
-<img src="assets/Bruno.jpeg" width="170" style="border-radius: 50%" alt="Prof. Dr. Bruno Riccelli">
-<h4>Prof. Dr. Bruno Riccelli️️️</h4>
-<p><i>Coordenador</i></p>
-<p>
-<a href="mailto:bruno.silva@crateus.ufc.br">📧 bruno.silva@crateus.ufc.br</a>
-</p>
-<p>
-<a href="http://lattes.cnpq.br/9288483499965859">
-<img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
-</a>
-</p>
-</td>
+  <td align="center" width="25%">
+    <img src="assets/Bruno.jpeg" width="180" height="180" alt="Prof. Dr. Bruno Riccelli">
+  </td>
+
+  <td align="center" width="25%">
+    <img src="assets/Almada.jpeg" width="180" height="180" alt="Prof. Dr. Anderson de Almada">
+  </td>
+</tr>
+
+<!-- Nomes -->
+<tr>
+  <td align="center" width="25%">
+    <strong>Prof. Dr. Wellington Franco</strong>
+  </td>
+
+  <td align="center" width="25%">
+    <strong>Prof. Dr. Marciel Barros</strong>
+  </td>
+
+  <td align="center" width="25%">
+    <strong>Prof. Dr. Bruno Riccelli</strong>
+  </td>
+
+  <td align="center" width="25%">
+    <strong>Prof. Dr. Anderson de Almada</strong>
+  </td>
+</tr>
+
+<!-- Links -->
+<tr>
+  <td align="center" width="25%">
+    <a href="mailto:wellington@crateus.ufc.br">
+      <img src="https://img.shields.io/badge/E--mail-0056A6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+    <a href="http://lattes.cnpq.br/5168415467086883">
+      <img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+    </a>
+  </td>
+
+  <td align="center" width="25%">
+    <a href="mailto:marciel@crateus.ufc.br">
+      <img src="https://img.shields.io/badge/E--mail-0056A6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+    <a href="http://lattes.cnpq.br/0917260030364584">
+      <img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+    </a>
+  </td>
+
+  <td align="center" width="25%">
+    <a href="mailto:bruno.silva@crateus.ufc.br">
+      <img src="https://img.shields.io/badge/E--mail-0056A6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+    <a href="http://lattes.cnpq.br/9288483499965859">
+      <img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+    </a>
+  </td>
+
+  <td align="center" width="25%">
+    <a href="mailto:almada@crateus.ufc.br">
+      <img src="https://img.shields.io/badge/E--mail-0056A6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+    <a href="http://lattes.cnpq.br/5271246957499974">
+      <img src="https://img.shields.io/badge/Lattes-004B8D?style=flat-square&logo=google-scholar&logoColor=white" alt="Lattes">
+    </a>
+  </td>
 </tr>
 </table>
 
@@ -101,9 +133,9 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 | Ano | Título | Autores | Venue | Links |
 |-----|--------|---------|-------|-------|
-| 2026 | [LLM4Series: Structured Prompting for Time Series Forecasting with LLMs | Silva, Wesley Barbosa | WorKshop TSALM no ICLR 2026 | [📄 PDF](https://openreview.net/forum?id=6fbcYFRoUL) |
-| 2024 | [Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning] | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
-| 2023 | [Prompt-Driven Time Series Forecasting with Large Language Models] | Bastos, Zairo | ICEIS 2025 | [📄 PDF]((https://www.scitepress.org/Papers/2025/133638/133638.pdf)) |
+| 2026 | LLM4Series: Structured Prompting for Time Series Forecasting with LLMs | Silva, Wesley Barbosa | WorKshop TSALM no ICLR 2026 | [📄 PDF](https://openreview.net/forum?id=6fbcYFRoUL) |
+| 2024 | Sex Estimation from 3D Analysis of Paranasal Sinuses: A Multicenter Study Using Deep Learning and Machine Learning | Scarcela, Maria Fernanda AF. | ENIAC 2025 | [📄 PDF](https://sol.sbc.org.br/index.php/eniac/article/view/38877) |
+| 2023 | Prompt-Driven Time Series Forecasting with Large Language Models | Bastos, Zairo | ICEIS 2025 | [📄 PDF](https://www.scitepress.org/Papers/2025/133638/133638.pdf) |
 
 **[Ver todas as publicações →](publicações/artigos.md)**
 
