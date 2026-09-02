@@ -15,12 +15,18 @@
 
 ---
 
-## Sobre o Laboratório
+<h2>
+  <img src="assets/icons/info.png" width="25" height="25">
+  Sobre o Laboratório
+</h2>
 
 O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federal do Ceará (UFC) — Campus Crateús, com foco no desenvolvimento de soluções inovadoras em Inteligência Artificial e sistemas computacionais. O laboratório atua em pesquisa, desenvolvimento e inovação tecnológica, promovendo projetos acadêmicos e científicos que buscam gerar impacto na sociedade e contribuir para a formação de pesquisadores qualificados.
 
 
-## Áreas de Pesquisa
+<h2>
+  <img src="assets/icons/target.svg" width="22" height="22">
+  Áreas de Pesquisa
+</h2>
 
 <table>
 <!-- Imagens -->
@@ -86,7 +92,10 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 
 Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)**, aplicando boas práticas de engenharia de software.
 
-## Coordenação
+<h2>
+  <img src="assets/icons/users.svg" width="22" height="22">
+  Coordenação
+</h2>
 
 <table>
 <!-- Fotos -->
@@ -167,7 +176,10 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 </tr>
 </table>
 
-## Produção Científica
+<h2>
+  <img src="assets/icons/book-open.svg" width="22" height="22">
+  Produção Científica
+</h2>
 
 ### Publicações Recentes
 
@@ -179,7 +191,10 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 **[Ver todas as publicações →](publicações/artigos.md)**
 
-### Estatísticas
+<h2>
+  <img src="assets/icons/mail.svg" width="22" height="22">
+  Estatísticas
+</h2>
 
 <div align="center">
 
@@ -189,7 +204,10 @@ Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desen
 
 </div>
 
-## Trabalhos de Conclusão de Curso
+<h2>
+  <img src="assets/icons/graduation-cap.svg" width="22" height="22">
+  Trabalhos de Conclusão de Curso
+</h2>
 
 Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas reais. 
 
@@ -201,7 +219,10 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 - **[2025]** *Previsão de séries temporais orientada por prompt com modelos de linguagem de grande escalas* - Zairo Bastos | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/80020)
 - **[2025]** *Um estudo comparativo de modelos de aprendizado de máquina para classificação de flores apícolas: integrando extratores de texturas e classificadores* - Letícia Torres | [📂 Repositório](https://repositorio.ufc.br/handle/riufc/79979)
 
-## Parcerias
+<h2>
+  <img src="assets/icons/handshake.svg" width="22" height="22">
+  Parcerias
+</h2>
 
 <div align="center">
 
@@ -220,7 +241,10 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 
 </div>
 
-## 🛠️ Tecnologias que Utilizamos
+<h2>
+  <img src="assets/icons/cpu.svg" width="22" height="22">
+  Tecnologias que Utilizamos
+</h2>
 
 <div align="center">
 
@@ -235,7 +259,10 @@ Nossos alunos desenvolvem TCCs de alta qualidade aplicando pesquisa em problemas
 
 </div>
 
-## 📞 Contato
+<h2>
+  <img src="assets/icons/mail.svg" width="22" height="22">
+  Contato
+</h2>
 
 - 🌐 **Website:** [enginelab.ufc.br](https://enginelab.ufc.br/)
 - 📧 **Email:** enginelab@crateus.ufc.br
