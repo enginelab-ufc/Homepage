@@ -93,7 +93,7 @@ O **EngineLab** é um laboratório de pesquisa localizado na Universidade Federa
 Também desenvolvemos projetos em **[Desenvolvimento de Sistemas](projetos/Desenvolvimento%20de%20Sistemas.md)**, aplicando boas práticas de engenharia de software.
 
 <h2>
-  <img src="assets/icons/coordenacao.png" width="22" height="22">
+  <img src="assets/icons/coordenacao.png" width="24" height="24">
   Coordenação
 </h2>
 
