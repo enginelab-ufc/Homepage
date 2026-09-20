@@ -45,7 +45,7 @@ A proposta busca apoiar a educação inclusiva por meio da automação e persona
 `FastApi` `React` `Docker` `PostgreSQL` 
 
 **Publicações:** 
-- SBBD 2026 - Demos paper (Submetido)
+- SBBD 2026 - Demos paper
 
 **Parcerias:**
 - FASTEF
