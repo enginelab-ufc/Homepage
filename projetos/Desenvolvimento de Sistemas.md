@@ -1,11 +1,9 @@
 # 💻 Projetos de Desenvolvimento de Sistemas
 Projetos de pesquisa e desenvolvimento na área de Desenvolvimento de Sistemas desenvolvidos no EngineLab.
 
----
-
 ## 📊 Visão Geral
 
-- **Projetos Ativos:** 0
+- **Projetos Ativos:** 1
 - **Projetos Concluídos:** 0
 - **Publicações Geradas:** 0
 - **Colaboradores:** 2
@@ -28,6 +26,7 @@ Projetos de pesquisa e desenvolvimento na área de Desenvolvimento de Sistemas d
 
 * Equipe EMBRAPII LESC/UFC
 * Representantes DATAQORE
+  
 **Bolsa**: FASTEF
 
 **Descrição:** Desenvolvimento de uma arquitetura web inteligente baseada em princípios quântico-inspirados e aprendizado de máquina (AutoML). O projeto visa resolver a fragmentação de sistemas no Brasil, criando um ecossistema analítico interoperável que unifica dados clínicos e administrativos via Lakehouse para apoiar decisões operacionais e preditivas no setor de saúde.
@@ -47,25 +46,7 @@ Projetos de pesquisa e desenvolvimento na área de Desenvolvimento de Sistemas d
 
 **Tecnologias:** `Python` `AutoML` `HL7/FHIR` `MinIO` `Docker` `Linux` `Data Lakehouse`
 
-📂 **[Repositório](PRIVADO)**
-
----
-
-
----
-
-
----
-
-## ✅ Projetos Concluídos
-
-### 2025
-
-
-
-
----
-
+📂 **Repositório privado**
 
 ---
 <div align="center">
