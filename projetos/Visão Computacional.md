@@ -6,8 +6,7 @@ Projetos de pesquisa e desenvolvimento na área de Visão Computacional desenvol
 
 - **Projetos Ativos:** 4
 - **Projetos Concluídos:** 1
-- **Publicações Geradas:** 1
-- **Colaboradores:** 10
+- **Publicações Geradas:** 6
 
 ---
 
@@ -179,14 +178,14 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
 **Tecnologias:** 
 `Python` `TensorFlow` `PyTorch` `Scikit-learn` `OpenVINO` `Keras`
 
-📂 **[Repositório](https://github.com/larissatx11/Pesquisa-Odonto)**  
-
 **Publicações:** 
 - Artigo aceito no Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS): "Classificação Ordinal de Lesões de Cárie Cavitadas e Não Cavitadas em Fotografias da Superfície Oclusal Baseada no ICDAS com Transfer Learning".
 
 **Parcerias:**
 - Faculdade de Farmácia
 - Odontologia e Enfermagem (FFOE) - UFC Fortaleza
+
+📂 **[Repositório](https://github.com/larissatx11/Pesquisa-Odonto)**
 
 ---
 
