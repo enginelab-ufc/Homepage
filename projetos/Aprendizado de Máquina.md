@@ -82,7 +82,7 @@ Projetos de pesquisa e desenvolvimento na área de Aprendizado de Máquina desen
 
 **Tecnologias:** `Python` `Pandas` `Scikit-Learn` `SQL` `Docker` `Git`
 
-📂 **[Repositório](PRIVADO)**
+📂 **Repositório privado**
 
 ---
 
