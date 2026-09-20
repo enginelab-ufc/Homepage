@@ -2,11 +2,9 @@
 
 Projetos de pesquisa e desenvolvimento na área de Visão Computacional desenvolvidos no EngineLab.
 
----
-
 ## 📊 Visão Geral
 
-- **Projetos Ativos:** 2
+- **Projetos Ativos:** 4
 - **Projetos Concluídos:** 1
 - **Publicações Geradas:** 1
 - **Colaboradores:** 10
@@ -19,20 +17,21 @@ Projetos de pesquisa e desenvolvimento na área de Visão Computacional desenvol
 ### Sistema de Auxílio ao Diagnóstico de Cáries em Radiografias Interproximais (Bitewing)
 
 **Status:** 🟢 Em andamento   
-**Início:** Março 2026 | Previsão de Conclusão: Dezembro 2026
-**Responsável:** Prof. Dr. José Wellington Franco da Silva 
+**Início:** Março 2026 | Previsão de Conclusão: Dezembro 2026      
+**Responsável:** Prof. Dr. José Wellington Franco da Silva  
+
 **Equipe:**
 - Wagner Vasconcelos Dias (Graduando em Ciência da Computação/ Desenvolvedor)
 - Antonio Everton Coelho Teixeira (Graduando em Ciência da Computação / Desenvolvedor)
 - Gisele Gomes Costa (Graduanda em Sistemas de Informação / Desenvolvedor)
 - Isabelly Lima dos Santos (Estudante de Mestrado em Odontologia)
+  
 **Bolsa**: PIBIC 
 
 Equipe:
 Wagner Vasconcelos Dias (Graduando em Ciência da Computação/ Desenvolvedor)
 Antonio Everton Coelho Teixeira (Graduando em Ciência da Computação / Desenvolvedor)
 Gisele Gomes Costa (Graduanda em Sistemas de Informação / Desenvolvedor)
-
 
 **Descrição:**  
 A cárie dentária é uma lesão bacteriana progressiva que destrói os tecidos do dente, exigindo detecção precoce para evitar tratamentos invasivos, nossa solução atua exatamente aí, como um Sistema de Auxílio ao Diagnóstico em Radiografias Interproximais (Bitewing). O pipeline tecnológico inicia-se com a aplicação do modelo YOLO na radiografia original para isolar e extrair exclusivamente os dentes. Em seguida, utilizamos Redes Neurais profundas para realizar a segmentação semântica das lesões, identificando a cárie minuciosamente, pixel a pixel. Por fim, o sistema exibe a máscara de segmentação visual gerada pela IA e valida a sua eficácia calculando métricas de precisão em comparação direta com o padrão-ouro clínico.
@@ -52,20 +51,17 @@ A cárie dentária é uma lesão bacteriana progressiva que destrói os tecidos 
 **Tecnologias:**
 `Python` `PyTorch` `YOLO (Ultralytics)` `Torchvision` `OpenCV` `Albumentations` `Scikit-Learn`
 
-**Repositório:**
-https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing 
-
 **Parcerias:**
 - Programa de Pós-Graduação em Odontologia (validação clínica e base de dados)
+
+📂 **[Repositório](https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing )**  
 
 ---
 ### SADE - Sistema de Auxílio ao Pré-diagnóstico Domiciliar de Escoliose
 
-**Status:** 🟢 Em andamento
-
-**Início:** Setembro 2025 | **Previsão de Conclusão:** Dezembro 2026
-
-**Responsável:** Prof. Bruno Riccelli
+**Status:** 🟢 Em andamento  
+**Início:** Setembro 2025 | **Previsão de Conclusão:** Dezembro 2026  
+**Responsável:** Prof. Bruno Riccelli  
 
 **Equipe:** 
 - Pedro Kauan Silveira Silva
@@ -92,7 +88,7 @@ https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing
 
 **Tecnologias:** `Python` `FastAPI` `PyTorch` `Visão Computacional` `Docker` `HL7 FHIR` `SQL`
 
-📂 **[Repositório](PRIVADO)**
+📂 **Repositório privado**
 
 ---
 ### HygeIA - Sistema de Otimização de Saúde Bucal no SUS
@@ -112,14 +108,12 @@ https://github.com/WagnerSPDB/SegmentacaoRadiografiasBitewing
 **Descrição:**  
 Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimização da saúde bucal no SUS, com foco na identificação de cáries e lesões bucais associada ao câncer de boca. As atividades envolvem o desenvolvimento e avaliação de modelos preditivos e sistemas inteligentes voltados à análise de imagens odontológicas, à prevenção de doenças bucais e à gestão de informações em saúde, contribuindo para a melhoria da qualidade do cuidado e para o fortalecimento da atenção básica.
 
-
 **Objetivos:**
 
 - Apoio ao diagnóstico precoce de doenças bucais;
 - Contribuir para a otimização da gestão de informações em saúde no contexto do SUS;
 - Apoiar profissionais da atenção básica com ferramentas tecnológicas voltadas à tomada de decisão;
 - Incentivar a integração entre tecnologia e pesquisa na saúde pública.
-
 
 **Metodologia:**
 - Coleta e organização de imagens de dentes e lesões bucais para a formação da base de dados do projeto;
@@ -129,12 +123,10 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
 - Análise dos resultados obtidos para apoio ao diagnóstico;
 - Documentação e validação das soluções desenvolvidas visando aplicação no contexto do SUS. 
   
-
 **Tecnologias:**  
 `Python` `YOLO` `JavaScript` `React` `FastAPI` `SQLite`
 
 📂 **[Repositório](https://github.com/CainDeVV/Pet-Saude.git)**  
-
 
 **Publicações:** 
 - Revista CRO-CE
@@ -143,7 +135,6 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
    - Sorrisos Digitais, Dados Sensíveis: Desafios Éticos na Era da Odontologia Conectada
    - Tecnologia Com Sensibilidade: O Desafio Ético da Humanização na Odontologia Digital
        
-  
 **Parcerias:**
 - Curso de Odontologia - UFC (Fortaleza)
 - EngineLab
@@ -153,9 +144,9 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
 ---
 ### Grupo de Pesquisa em Segmentação e Classificação de Cárie Dentária via Imagens Móveis e Radiográficas
 
-**Status:** 🟢 Em andamento
-**Início:** início de 2025 | Previsão de Conclusão: não sei
-**Responsáveis:** Prof. Dr. Wellington Franco e Profa. Dra. Lidiany Karla Azevedo Rodrigues
+**Status:** 🟢 Em andamento  
+**Início:** Fevereiro de 2025 | Previsão de Conclusão: Dezembro de 2026  
+**Responsáveis:** Prof. Dr. Wellington Franco e Profa. Dra. Lidiany Karla Azevedo Rodrigues  
 
 **Equipe:**
 - Ana Larissa Teixeira Dantas (Graduanda)
@@ -202,7 +193,6 @@ Aplicação de Inteligência Artificial e Aprendizado de Máquina para a otimiza
 ## ✅ Projetos Concluídos
 
 ### 2025
----
 
 ### Estimativa de Sexo com Inteligência Artificial Aplicada à Análise Tridimensional da Região Orbitária: Aplicação de Redes Neurais Convolucionais e Transferência de Conhecimento em um Estudo Multicêntrico
 
@@ -230,8 +220,6 @@ Desenvolvimento de um sistema inteligente para classificação do sexo biológic
 
 **Publicações:**
 📄 **[Artigo Publicado]([link](https://sol.sbc.org.br/index.php/eniac/article/view/38877))** - ENIAC 2025 
-
----
 
 
 ---
