@@ -7,8 +7,7 @@ Projetos de pesquisa e desenvolvimento na área de Aprendizado de Máquina desen
 
 - **Projetos Ativos:** 4
 - **Projetos Concluídos:** 2
-- **Publicações Geradas:** 5
-- **Colaboradores:** 6
+- **Publicações Geradas:** 0
 
 ---
 
