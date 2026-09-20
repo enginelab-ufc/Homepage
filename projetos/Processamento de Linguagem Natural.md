@@ -2,14 +2,11 @@
 
 Projetos de pesquisa e desenvolvimento na área de PLN desenvolvidos no EngineLab.
 
----
-
 ## 📊 Visão Geral
 
-- **Projetos Ativos:** 5
-- **Projetos Concluídos:** 8
-- **Publicações Geradas:** 12
-- **Colaboradores:** 15
+- **Projetos Ativos:** 1
+- **Projetos Concluídos:** 1
+- **Publicações Geradas:** 1
 
 ---
 
@@ -22,6 +19,7 @@ Projetos de pesquisa e desenvolvimento na área de PLN desenvolvidos no EngineLa
 **Status:** 🟢 Em andamento   
 **Início:** Agosto 2025 | **Previsão de Conclusão:** Agosto 2026  
 **Responsável:** Prof. Dra. Amanda Drielly Pires Venceslau
+
 **Equipe:**
 - Marciel Barros Pereira (Supervisor)
 - Gabriel (Mestrando)
@@ -37,32 +35,22 @@ O **IluminIA** é um projeto voltado para o desenvolvimento de uma arquitetura b
 
 A proposta busca apoiar a educação inclusiva por meio da automação e personalização de documentos pedagógicos, considerando diretrizes educacionais, necessidades específicas dos estudantes e práticas inclusivas.
 
-
 **Objetivos:**
 - Desenvolver uma arquitetura baseada em LLMs e RAG para geração automática de PEIs
-
-
 
 **Metodologia:**
 - **LLMs** integrada à técnica de **RAG** para auxiliar na geração automática de **PEIs**.
 
-
 **Tecnologias:**  
 `FastApi` `React` `Docker` `PostgreSQL` 
-
 
 **Publicações:** 
 - SBBD 2026 - Demos paper (Submetido)
 
-
 **Parcerias:**
 - FASTEF
 
----
-
-
----
-
+📂 **Repositório privado**
 
 ---
 
@@ -73,8 +61,8 @@ A proposta busca apoiar a educação inclusiva por meio da automação e persona
 
 **Status:** ✅ Concluído  
 **Período:** Setembro 2024 - Agosto 2025  
-**Responsável:** Prof. Dr. Amanda Drielly Pires Venceslau
-**Equipe:** Giovanna Maria Verissimo Xavier (Graduação) e Amanda Drielly Pires Venceslau(Doutora).
+**Responsável:** Prof. Dr. Amanda Drielly Pires Venceslau  
+**Equipe:** Giovanna Maria Verissimo Xavier (Graduação) e Amanda Drielly Pires Venceslau(Doutora).  
 
 **Descrição:**  
 Este trabalho propõe a construção de um gráfico de conhecimento acadêmico que reúne fontes, como artigos, conjuntos de dados e outros recursos, focados em ferramentas de suporte visual digital aplicadas ao ensino de crianças com autismo.
@@ -84,13 +72,10 @@ Este trabalho propõe a construção de um gráfico de conhecimento acadêmico q
 - ✅ Reutilização de ontologias do OpenAIRE Graph
 - ✅ Reutilização de estruturas propostas por Knowledge Graph acadêmicos
 
-
 **Tecnologias:**  
 `RDF` `Turtle` `Sparql` `GraphDB` `rdflib` `Zenodo API` `Protégé`
 
 📂 **[Repositório](https://github.com/GiovannaXavier18/GRAFTAE.git)**  
----
-
 
 ---
 <div align="center">
