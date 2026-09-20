@@ -6,7 +6,6 @@ Projetos de pesquisa e desenvolvimento na área de Desenvolvimento de Sistemas d
 - **Projetos Ativos:** 1
 - **Projetos Concluídos:** 0
 - **Publicações Geradas:** 0
-- **Colaboradores:** 2
 
 ---
 
