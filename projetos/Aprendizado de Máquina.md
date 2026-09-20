@@ -2,12 +2,11 @@
 
 Projetos de pesquisa e desenvolvimento na área de Aprendizado de Máquina desenvolvidos no EngineLab.
 
----
 
 ## 📊 Visão Geral
 
-- **Projetos Ativos:** 3
-- **Projetos Concluídos:** 4
+- **Projetos Ativos:** 4
+- **Projetos Concluídos:** 2
 - **Publicações Geradas:** 5
 - **Colaboradores:** 6
 
@@ -16,48 +15,6 @@ Projetos de pesquisa e desenvolvimento na área de Aprendizado de Máquina desen
 ## 🚀 Projetos em Andamento
 
 # 2026
-
-### O USO DE TÉCNICAS DE APRENDIZADO DE MÁQUINA À MORFOMETRIA DOS
-SEIOS PARANASAIS PARA ESTIMATIVA DO SEXO BIOLÓGICO EM POPULAÇÕES
-BRASILEIRAS
-
-**Status:** 🟢 Concluído
-**Início:** Agosto de 2025 | **Conclusão:** Fevereiro de 2026
-**Responsável:** Prof. Dr. José Wellington Franco da Silva   
-**Equipe:**
-- João Victor de Oliveira Rodrigues 
-
-**Descrição:**  
-Este projeto propõe o desenvolvimento de modelos de aprendizado de máquina para predição do sexo biológico a partir de medidas morfométricas dos seios paranasais obtidas por tomografia computadorizada. Para isso, serão utilizadas características lineares, tridimensionais e volumétricas associadas a técnicas de pré-processamento, engenharia de atributos e classificação supervisionada, buscando identificar padrões anatômicos relacionados ao dimorfismo sexual
-
-**Objetivos:**
-- Desenvolver modelos de aprendizado de máquina para predição do sexo biológico utilizando medidas morfométricas dos seios paranasais.
-- Aplicar técnicas de pré-processamento e engenharia de atributos nos dados extraídos das tomografias computadorizadas.
-- Treinar diferentes algoritmos de classificação supervisionada.
-- Otimizar hiperparâmetros dos modelos utilizando validação cruzada.
-- Comparar o desempenho dos classificadores por meio de métricas estatísticas.
-- Identificar as características anatômicas mais relevantes para a distinção entre os sexos.
-- Avaliar a robustez e capacidade de generalização dos modelos desenvolvidos.
-
-**Metodologia:**
-- Pré-processamento e padronização dos dados.
-- Engenharia de atributos morfométricos.
-- Tratamento de outliers utilizando IQR Clipping.
-- Treinamento de modelos de classificação supervisionada.
-- Otimização de hiperparâmetros com GridSearchCV.
-- Aplicação de validação cruzada estratificada.
-- Ajuste de threshold para classificação.
- -Avaliação e comparação dos modelos utilizando métricas estatísticas.
-
-**Tecnologias:**  
-Python ipynb
-
-📂 **[Repositório](https://github.com/VictorORodrigues/Classifica-o-do-sexo-biol-gico-a-partir-das-medidas-dos-seios-paranasais/tree/main)**
-
-**Parcerias:**
-- Programa de Mestrado Odontologia Fortaleza-CE
-
----
 
 ### Análise e Predição de Insuficiência Cardíaca
 
@@ -71,6 +28,7 @@ Python ipynb
 - Pedro Kauan Silveira Silva
 - Mikeyas Brito dos Santos
 - Gisele Gomes
+  
 **Bolsa**: IC
 
 **Descrição:** Desenvolvimento de um modelo preditivo baseado em Inteligência Artificial para avaliar o risco e detectar padrões associados à insuficiência cardíaca. O projeto processa bases de dados de saúde para extrair características clínicas (biomarcadores, fatores demográficos e comorbidades), auxiliando na detecção precoce e servindo como uma ferramenta de suporte à decisão clínica.
@@ -103,6 +61,7 @@ Python ipynb
 **Responsável:** Prof. Bruno Riccelli
 
 **Equipe:** - Pedro Kauan Silveira Silva (Desenvolvedor Principal)
+
 **Bolsa**: IC
 
 **Descrição:** Construção de um sistema analítico focado na predição e estimativa de faturamento utilizando histórico de registros operacionais e financeiros. A solução busca identificar sazonalidades, tendências e anomalias na receita para projetar resultados futuros, otimizando o planejamento estratégico e a alocação de recursos institucionais baseada em dados.
@@ -159,7 +118,7 @@ Python ipynb
 
 📂 **[Repositório](https://github.com/pkziinn10/Analyze-the-use-of-medical-services-by-the-elderly)**
 
---
+---
 
 ### Green AI in Credit Risk: Carbon-Aware Machine Learning
 
@@ -197,6 +156,46 @@ Projeto de pesquisa voltado para análise do impacto ambiental de modelos de apr
 
 ## ✅ Projetos Concluídos
 
+### O USO DE TÉCNICAS DE APRENDIZADO DE MÁQUINA À MORFOMETRIA DOS
+SEIOS PARANASAIS PARA ESTIMATIVA DO SEXO BIOLÓGICO EM POPULAÇÕES
+BRASILEIRAS
+
+**Status:** 🟢 Concluído
+**Início:** Agosto de 2025 | **Conclusão:** Fevereiro de 2026
+**Responsável:** Prof. Dr. José Wellington Franco da Silva   
+**Equipe:**
+- João Victor de Oliveira Rodrigues 
+
+**Descrição:**  
+Este projeto propõe o desenvolvimento de modelos de aprendizado de máquina para predição do sexo biológico a partir de medidas morfométricas dos seios paranasais obtidas por tomografia computadorizada. Para isso, serão utilizadas características lineares, tridimensionais e volumétricas associadas a técnicas de pré-processamento, engenharia de atributos e classificação supervisionada, buscando identificar padrões anatômicos relacionados ao dimorfismo sexual
+
+**Objetivos:**
+- Desenvolver modelos de aprendizado de máquina para predição do sexo biológico utilizando medidas morfométricas dos seios paranasais.
+- Aplicar técnicas de pré-processamento e engenharia de atributos nos dados extraídos das tomografias computadorizadas.
+- Treinar diferentes algoritmos de classificação supervisionada.
+- Otimizar hiperparâmetros dos modelos utilizando validação cruzada.
+- Comparar o desempenho dos classificadores por meio de métricas estatísticas.
+- Identificar as características anatômicas mais relevantes para a distinção entre os sexos.
+- Avaliar a robustez e capacidade de generalização dos modelos desenvolvidos.
+
+**Metodologia:**
+- Pré-processamento e padronização dos dados.
+- Engenharia de atributos morfométricos.
+- Tratamento de outliers utilizando IQR Clipping.
+- Treinamento de modelos de classificação supervisionada.
+- Otimização de hiperparâmetros com GridSearchCV.
+- Aplicação de validação cruzada estratificada.
+- Ajuste de threshold para classificação.
+ -Avaliação e comparação dos modelos utilizando métricas estatísticas.
+
+**Tecnologias:**  
+Python ipynb
+
+📂 **[Repositório](https://github.com/VictorORodrigues/Classifica-o-do-sexo-biol-gico-a-partir-das-medidas-dos-seios-paranasais/tree/main)**
+
+**Parcerias:**
+- Programa de Mestrado Odontologia Fortaleza-CE
+
 ### 2025
 ### Balancing Accuracy, Fairness, Explainability and Sustainability in Peer-to-Peer Credit Risk Assessment
 
@@ -221,10 +220,6 @@ Projeto de pesquisa voltado para análise dos trade-offs entre desempenho predit
 `Python` `SHAP` `LIME` `CodeCarbon` `Pandas` `Numpy`
 
 📂 **[Repositório](https://github.com/EvertonTeix/p2p-credit-risk-tradeoffs)**  
-
-
-
----
 
 
 ---
